@@ -17,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/dgallardo06/Eat-Da-Burger/issues"
   },
-  "homepage": "https://github.com/dgallardo06/Eat-Da-Burger#readme"
+  "homepage": "https://github.com/dgallardo06/Eat-Da-Burger#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.10",
+    "mysql": "^2.15.0"
+  }
 }
